@@ -1,3 +1,4 @@
+import { userInfo } from "os";
 import logo from './logo.svg';
 import './App.css';
 //import Heading from './Heading';
@@ -6,7 +7,7 @@ import React, { useState } from 'react';
 //import component from "./name";
 import {Routes, Route} from 'react-router-dom';
 
-//const or function? using function and cost for var makes it easier to differentiate between var and function
+//const or function? using cost for var makes it easier to differentiate between var and function
 
 function App() {
   return (
