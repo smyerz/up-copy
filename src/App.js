@@ -1,5 +1,5 @@
-import { userInfo } from "os";
-import logo from './logo.svg';
+//import { userInfo } from "os";
+//import logo from './logo.svg';
 import './App.css';
 //import Heading from './Heading';
 import React, { useState } from 'react';
